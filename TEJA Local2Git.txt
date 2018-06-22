@@ -1,5 +1,0 @@
-Hello 
-
-L2G Push
-
-Recieved :: OK
